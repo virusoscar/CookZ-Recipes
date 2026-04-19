@@ -37,9 +37,17 @@ Para estas recetas, generalmente se combina una **Caja Vacía** con los ingredie
 
 ### Combinaciones con Patata Asada (Baked Potato)
 * **Baked Potato + Meat:** Olla (sin agua) + 2 Patatas + 2 Carne (cerdo) + Queso + Caja.
+<img width="342" height="173" alt="image" src="https://github.com/user-attachments/assets/14c6e0d3-4b46-43af-bdc0-46ccad24c7a4" />
+
 * **Baked Potato + Seafood:** Olla (sin agua) + 2 Patatas + Pescado + Queso + Caja.
+<img width="330" height="174" alt="image" src="https://github.com/user-attachments/assets/ec3745ce-81e2-4df5-97cf-f94698b61a79" />
+
 * **Baked Potato + Vegetables:** Olla (sin agua) + 2 Patatas + Calabacín + Pimiento + Tomate + Queso + Caja.
+<img width="325" height="168" alt="image" src="https://github.com/user-attachments/assets/27a14de0-d904-4aab-af3c-7781b6942301" />
+
 * **Baked Potato + Beans:** Olla (sin agua) + 2 Patatas + Lata de Alubias + Queso + Caja.
+<img width="334" height="173" alt="image" src="https://github.com/user-attachments/assets/69fc47eb-4279-47f5-bb0e-0d95e75f60cf" />
+
 
 ### Platos Clásicos
 * **Bangers and Mash:** Olla (**CON AGUA**) + Salchichas + 2 Patatas + Caja.
