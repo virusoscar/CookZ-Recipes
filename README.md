@@ -51,11 +51,23 @@ Para estas recetas, generalmente se combina una **Caja Vacía** con los ingredie
 
 ### Platos Clásicos
 * **Bangers and Mash:** Olla (**CON AGUA**) + Salchichas + 2 Patatas + Caja.
+<img width="323" height="173" alt="image" src="https://github.com/user-attachments/assets/7777280c-bb6a-4255-a733-7a89e09e41b6" />
+
 * **Biff a la Nelson:** Olla (sin agua) + 2 Carne + 2 Patatas + Manteca (Lard) + Caja.
+<img width="329" height="184" alt="image" src="https://github.com/user-attachments/assets/a0b84f4b-dd6f-48dc-8488-9ed43d9ac956" />
+
 * **Chicken Cordon Bleu:** Olla (sin agua) + Jamón o Pollo + 2 trozos de Queso + Caja.
+<img width="334" height="179" alt="image" src="https://github.com/user-attachments/assets/0526c741-4404-4927-8f66-aa1a5e881afa" />
+
 * **Currywurst:** Sartén + Salchicha + Patata + Tomate + Caja.
+<img width="331" height="176" alt="image" src="https://github.com/user-attachments/assets/ebc00d60-d952-43d8-bd0d-84f24f315a8c" />
+
 * **Fish and Chips:** Sartén + Pescado + Carne + Patata + Caja.
+<img width="338" height="172" alt="image" src="https://github.com/user-attachments/assets/e10ec61c-2b43-4587-b94a-15173576f2d4" />
+
 * **Fish Sticks (Nuevo):** Sartén + Jamón o Pescado + Caja.
+<img width="326" height="169" alt="image" src="https://github.com/user-attachments/assets/25dfc8d5-3fa0-427c-be06-eacfb48ff563" />
+
 
 ---
 
