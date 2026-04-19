@@ -36,7 +36,7 @@ Antes de cocinar platos complejos, necesitas los elementos básicos:
 Para estas recetas, generalmente se combina una **Caja Vacía** con los ingredientes dentro de una **Olla o Sartén** (sin agua o con agua según se indique) y se aplica fuego.
 
 ### Combinaciones con Patata Asada (Baked Potato)
-* **Baked Potato + Meat:** Olla (sin agua) + 2 Patatas + 2 Carne (cualquiera) + Queso + Caja.
+* **Baked Potato + Meat:** Olla (sin agua) + 2 Patatas + 2 Carne (cerdo) + Queso + Caja.
 * **Baked Potato + Seafood:** Olla (sin agua) + 2 Patatas + Pescado + Queso + Caja.
 * **Baked Potato + Vegetables:** Olla (sin agua) + 2 Patatas + Calabacín + Pimiento + Tomate + Queso + Caja.
 * **Baked Potato + Beans:** Olla (sin agua) + 2 Patatas + Lata de Alubias + Queso + Caja.
