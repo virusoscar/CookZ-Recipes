@@ -8,8 +8,6 @@ Antes de cocinar platos complejos, necesitas los elementos básicos:
 
 * **Libro de Cocina (Craft Cookbook):** Papel + Papel.
 <img width="353" height="178" alt="image" src="https://github.com/user-attachments/assets/07e976fd-678a-4cb2-9ad1-77e59ef30c46" />
-
-
 * **Latas Vacías (x10):** Sierra para metales (Hacksaw) + Lámina de metal.
 * **Caja Vacía (Empty Box):** Papel + Papel.
 * **Caja Vacía (Alternativo):** Cuchillo + Corteza de árbol (Dark/Light Bark).
