@@ -17,9 +17,17 @@ Antes de cocinar platos complejos, necesitas los elementos básicos:
 <img width="328" height="163" alt="image" src="https://github.com/user-attachments/assets/894269f5-11f8-4241-a5d2-2c4e507c6f29" />
 
 * **Caja Vacía (Alternativo):** Cuchillo + Corteza de árbol (Dark/Light Bark).
+<img width="349" height="163" alt="image" src="https://github.com/user-attachments/assets/5de069a7-2449-4236-a8de-8df1248bc778" />
+
 * **Desinfectar Trapos:** Olla con agua + Trapos + Fuego (煮 - Hervir).
+<img width="344" height="173" alt="image" src="https://github.com/user-attachments/assets/5a2603c2-837f-4bf9-9f7a-713f21d3ba8e" />
+
 * **Desinfectar Vendajes:** Olla con agua + Vendajes + Fuego.
+<img width="343" height="180" alt="image" src="https://github.com/user-attachments/assets/7524008e-2d91-4460-ae35-40f0f7870dda" />
+
 * **Queso (x4):** Olla con agua + Bolsas de leche + Fuego.
+<img width="348" height="181" alt="image" src="https://github.com/user-attachments/assets/aac84a5d-2188-40c9-8944-f9bf043aae00" />
+
 
 ---
 
