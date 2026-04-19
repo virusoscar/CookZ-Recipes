@@ -1,4 +1,4 @@
-# 🍳 Guía de Recetas - Mod CookZ (DayZ)
+<img width="342" height="175" alt="image" src="https://github.com/user-attachments/assets/42e13584-83fa-4237-bad2-1e89ba7976b2" /># 🍳 Guía de Recetas - Mod CookZ (DayZ)
 
 Esta es una guía rápida de crafteo y cocina para el mod **CookZ**, diseñada para tener a mano todos los ingredientes y pasos necesarios.
 
@@ -11,6 +11,8 @@ Antes de cocinar platos complejos, necesitas los elementos básicos:
 
 
 * **Latas Vacías (x10):** Sierra para metales (Hacksaw) + Lámina de metal.
+<img width="342" height="175" alt="image" src="https://github.com/user-attachments/assets/6ef77eb6-f5c8-46c7-9761-c64d209a49ea" />
+
 * **Caja Vacía (Empty Box):** Papel + Papel.
 * **Caja Vacía (Alternativo):** Cuchillo + Corteza de árbol (Dark/Light Bark).
 * **Desinfectar Trapos:** Olla con agua + Trapos + Fuego (煮 - Hervir).
