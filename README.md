@@ -1,4 +1,4 @@
-<img width="342" height="175" alt="image" src="https://github.com/user-attachments/assets/42e13584-83fa-4237-bad2-1e89ba7976b2" /># 🍳 Guía de Recetas - Mod CookZ (DayZ)
+# 🍳 Guía de Recetas - Mod CookZ (DayZ)
 
 Esta es una guía rápida de crafteo y cocina para el mod **CookZ**, diseñada para tener a mano todos los ingredientes y pasos necesarios.
 
