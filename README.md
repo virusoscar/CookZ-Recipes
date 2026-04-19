@@ -86,7 +86,11 @@ Para estas recetas, generalmente se combina una **Caja Vacía** con los ingredie
 * **Pork And Apple:** Sarten (sin agua) + 2 patatas peladas + Carne (cerdo) + Manzana + Grasa + Caja.
 <img width="550" height="310" alt="image" src="https://github.com/user-attachments/assets/6b90ca7d-2fb3-4e73-b992-87e7e268dcc7" />
 
-* **Nuggies And Fries:** Sartén (sin agua) + 4 gusanos + 4 gusanos + Caja.
+* **Nuggies And Fries:** Sartén (sin agua) + Grasa + 2 patatas peladas + 2 Carne (pollo) + Caja.
+<img width="539" height="283" alt="image" src="https://github.com/user-attachments/assets/73f2b8a4-b4cd-4e5f-b15d-f0ab0eb0768c" />
+
+* **Parprikas Krumpli:** Sartén o Olla (sin agua) + Salchicha (cualquiera) + 2 patatas peladas + 2 Pimientos + Caja.
+<img width="543" height="298" alt="image" src="https://github.com/user-attachments/assets/e3e5f1ee-781f-49f2-88a0-09052617c46d" />
 
 
 
