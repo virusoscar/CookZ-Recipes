@@ -7,7 +7,8 @@ Esta es una guía rápida de crafteo y cocina para el mod **CookZ**, diseñada p
 Antes de cocinar platos complejos, necesitas los elementos básicos:
 
 * **Libro de Cocina (Craft Cookbook):** Papel + Papel.
-  <img width="149" height="160" alt="image" src="https://github.com/user-attachments/assets/c2916347-b71b-47a9-ade7-bef3cd80be34" />
+<img width="353" height="178" alt="image" src="https://github.com/user-attachments/assets/07e976fd-678a-4cb2-9ad1-77e59ef30c46" />
+
 
 * **Latas Vacías (x10):** Sierra para metales (Hacksaw) + Lámina de metal.
 * **Caja Vacía (Empty Box):** Papel + Papel.
