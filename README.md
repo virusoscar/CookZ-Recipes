@@ -68,6 +68,8 @@ Para estas recetas, generalmente se combina una **Caja Vacía** con los ingredie
 * **Fish Sticks (Nuevo):** Sartén + Jamón o Pescado + Caja.
 <img width="326" height="169" alt="image" src="https://github.com/user-attachments/assets/25dfc8d5-3fa0-427c-be06-eacfb48ff563" />
 
+* **Fish Sticks (Nuevo):** Sartén + Jamón o Pescado + Caja.
+
 
 ---
 
