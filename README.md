@@ -14,6 +14,8 @@ Antes de cocinar platos complejos, necesitas los elementos básicos:
 <img width="342" height="175" alt="image" src="https://github.com/user-attachments/assets/6ef77eb6-f5c8-46c7-9761-c64d209a49ea" />
 
 * **Caja Vacía (Empty Box):** Papel + Papel.
+<img width="328" height="163" alt="image" src="https://github.com/user-attachments/assets/894269f5-11f8-4241-a5d2-2c4e507c6f29" />
+
 * **Caja Vacía (Alternativo):** Cuchillo + Corteza de árbol (Dark/Light Bark).
 * **Desinfectar Trapos:** Olla con agua + Trapos + Fuego (煮 - Hervir).
 * **Desinfectar Vendajes:** Olla con agua + Vendajes + Fuego.
