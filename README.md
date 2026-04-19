@@ -92,6 +92,32 @@ Para estas recetas, generalmente se combina una **Caja Vacía** con los ingredie
 * **Parprikas Krumpli:** Sartén o Olla (sin agua) + Salchicha (cualquiera) + 2 patatas peladas + 2 Pimientos + Caja.
 <img width="543" height="298" alt="image" src="https://github.com/user-attachments/assets/e3e5f1ee-781f-49f2-88a0-09052617c46d" />
 
+* **Pommdoener:** Sartén (sin agua) + Grasa + Carne (vaca) + 2 Patatas Peladas + Caja.
+<img width="508" height="267" alt="image" src="https://github.com/user-attachments/assets/4404a397-8d18-4bde-81bf-b412b1f70ced" />
+
+* **Rabbit Roast:** Ollá (sin agua) + 2 Pimientos + 3 Tomates + 2 Carne (liebre)+ Caja.
+<img width="499" height="253" alt="image" src="https://github.com/user-attachments/assets/90f5ff54-1d99-4b61-a3a5-3ff0c3314fbb" />
+
+* **Ratatouille:** Ollá (sin agua) + 2 Patatas Peladas + 2 Pimientos + 1 Calabacín + 1 Tomate + Caja.
+<img width="508" height="255" alt="image" src="https://github.com/user-attachments/assets/0604e603-421e-44c9-8b60-3fa04f78927c" />
+
+* **Rice a La Malta:** Ollá (agua) + Arroz + Mermelada de Fresa + 1 Leche en Polvo + Caja.
+<img width="489" height="241" alt="image" src="https://github.com/user-attachments/assets/84cf0793-c862-47e3-ae9c-4e4d1bc1a84f" />
+
+* **Rice Pudding:** Ollá (agua) + Arroz + Leche en Polvo + 2 manzanas + Caja.
+<img width="478" height="253" alt="image" src="https://github.com/user-attachments/assets/d565374b-fc4f-43fa-9388-d4b98b8254f6" />
+
+* **Schnitzel:** Sartén (sin agua) + Galletas Saladas/Palitos + Carne (Cualquiera) + Grasa + Caja.
+<img width="488" height="255" alt="image" src="https://github.com/user-attachments/assets/20d8c1af-0029-416e-a7a5-c1c7bdbc480f" />
+
+* **Stir:** Sartén (sin agua) + Grasa + Patata Pelada + Pimiento + Tomatea + Calabacín + Caja.
+<img width="491" height="257" alt="image" src="https://github.com/user-attachments/assets/afcb24b5-5890-4fa1-b423-6fedba3bcaaf" />
+
+* **Stuffed Mushrooms:** Sartén (sin agua) + 4 Setas + Queso + Caja.
+* <img width="502" height="280" alt="image" src="https://github.com/user-attachments/assets/39f9bd3b-b8ac-42b6-a993-9a4037f82b21" />
+
+
+
 
 
 
