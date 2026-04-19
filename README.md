@@ -68,7 +68,29 @@ Para estas recetas, generalmente se combina una **Caja Vacía** con los ingredie
 * **Fish Sticks (Nuevo):** Sartén + Jamón o Pescado + Caja.
 <img width="326" height="169" alt="image" src="https://github.com/user-attachments/assets/25dfc8d5-3fa0-427c-be06-eacfb48ff563" />
 
-* **Fish Sticks (Nuevo):** Sartén + Jamón o Pescado + Caja.
+* **Fied Potatoes:** Sartén + grasa + patatas peladas x4  + Caja.
+<img width="333" height="165" alt="image" src="https://github.com/user-attachments/assets/30ae823b-ca94-4854-8e48-ef5a31707e08" />
+
+* **Gagh:** Olla + 4 gusanos + 4 gusanos + Caja.
+<img width="339" height="176" alt="image" src="https://github.com/user-attachments/assets/d910d6f0-1464-4617-8c85-85ceafadb27f" />
+
+* **Haggis With Mashed Potatoes:** Olla +  Intestinos + 2 patatas + Caja.
+<img width="548" height="280" alt="image" src="https://github.com/user-attachments/assets/29419c00-bb9b-4be5-8f04-4fafe08c7a43" />
+
+* **Mushroom Risotto:** Olla + Arroz + 2 Setas + Caja.
+<img width="543" height="281" alt="image" src="https://github.com/user-attachments/assets/caf41bcf-42f6-4699-9da3-76bc9f2db5b4" />
+
+* **Paella:** Olla (con agua) + Arroz + Pescado (ver cual es) + Carne (pollo) + tomate + Caja.
+<img width="543" height="298" alt="image" src="https://github.com/user-attachments/assets/fb2bef0c-405a-40d8-9228-d13212ccbfab" />
+
+* **Pork And Apple:** Sarten (sin agua) + 2 patatas peladas + Carne (cerdo) + Manzana + Grasa + Caja.
+<img width="550" height="310" alt="image" src="https://github.com/user-attachments/assets/6b90ca7d-2fb3-4e73-b992-87e7e268dcc7" />
+
+* **Nuggies And Fries:** Sartén (sin agua) + 4 gusanos + 4 gusanos + Caja.
+
+
+
+
 
 
 ---
