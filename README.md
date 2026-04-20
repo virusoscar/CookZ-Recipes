@@ -132,7 +132,7 @@ En este caso, para obtener la lata del alimento, debes combinar los ingredientes
 * **Bone Broth:** Ollá (con agua) + Latas.
 <img width="489" height="232" alt="image" src="https://github.com/user-attachments/assets/b3de0574-9b3d-4b6c-a2e1-7f0e81590ef7" />
 
-Canned Bacon: Olla (sin agua) + 2 trozos de Carne (cerdo) + Latas.
+* **Canned Bacon:** Olla (sin agua) + 2 trozos de Carne (cerdo) + Latas.
 
 ---
 
