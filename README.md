@@ -116,7 +116,7 @@ Para estas recetas, generalmente se combina una **Caja Vacía** con los ingredie
 * **Stuffed Mushrooms:** Sartén (sin agua) + 4 Setas + Queso + Caja.
 <img width="502" height="280" alt="image" src="https://github.com/user-attachments/assets/39f9bd3b-b8ac-42b6-a993-9a4037f82b21" />
 
-* **Stuffed Peppers:** Ollá (sin agua) + 3 Pimiento + Carne (cualquiera/cerdo) + Caja.
+* **Stuffed Peppers:** Ollá (sin agua) + 3 Pimiento + Carne (cualqui ra/cerdo) + Caja.
 <img width="491" height="256" alt="image" src="https://github.com/user-attachments/assets/f98c7024-5e19-4791-a416-cb9a3bbf74ef" />
 
 
@@ -130,8 +130,9 @@ En este caso, para obtener la lata del alimento, debes combinar los ingredientes
 <img width="438" height="249" alt="image" src="https://github.com/user-attachments/assets/8609265c-1d0e-46c1-9ccd-42af4bdb6049" />
 
 * **Bone Broth:** Ollá (con agua) + Latas.
+<img width="489" height="232" alt="image" src="https://github.com/user-attachments/assets/b3de0574-9b3d-4b6c-a2e1-7f0e81590ef7" />
 
-
+Canned Bacon: Olla (sin agua) + 2 trozos de Carne (cerdo) + Latas.
 
 ---
 
