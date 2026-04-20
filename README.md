@@ -126,8 +126,11 @@ Para estas recetas, generalmente se combina una **Caja Vacía** con los ingredie
 🥫 Recetas de Conservas (Can Recipes)
 En este caso, para obtener la lata del alimento, debes combinar los ingredientes dentro de una Olla o Sartén (con o sin agua, según la receta) y aplicar fuego.
 
-* **Beff Stew:** Ollá (con agua) + Carne (vaca) + 1 Patata pelada + 1 Pimiento + 2 Tomates + Caja.
+* **Beff Stew:** Ollá (con agua) + Carne (vaca) + 1 Patata pelada + 1 Pimiento + 2 Tomates + Latas.
 <img width="438" height="249" alt="image" src="https://github.com/user-attachments/assets/8609265c-1d0e-46c1-9ccd-42af4bdb6049" />
+
+* **Bone Broth:** Ollá (con agua) + Latas.
+
 
 
 ---
