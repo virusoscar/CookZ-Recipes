@@ -132,7 +132,15 @@ En este caso, para obtener la lata del alimento, debes combinar los ingredientes
 * **Bone Broth:** Ollá (con agua) + Latas.
 <img width="489" height="232" alt="image" src="https://github.com/user-attachments/assets/b3de0574-9b3d-4b6c-a2e1-7f0e81590ef7" />
 
-* **Canned Bacon:** Olla (sin agua) + 2 trozos de Carne (cerdo) + Latas.
+* **Canned Bacon:** Olla o Sartén (sin agua) + Grasa + 2 trozos de Carne (cerdo) + Latas.
+<img width="432" height="243" alt="image" src="https://github.com/user-attachments/assets/9766bd6c-e3f4-4aaf-8b15-fe80cd74f353" />
+
+* **Chili Con Carne:** Olla (sin agua) 1 Lata de Frijoles + 2 Trozos de Carne (Cualquiera) + 1 Pimiento Verde + 2 Tomates + Latas.
+<img width="414" height="239" alt="image" src="https://github.com/user-attachments/assets/2d481545-88b8-4e8b-af1e-42d0ee279acc" />
+
+* **Canned Bacon:** Olla (conagua) + 6 Tomates + 1 Paquete de Leche en Polvo + Latas.
+<img width="433" height="250" alt="image" src="https://github.com/user-attachments/assets/3681b921-1fdd-44f9-9e21-ce1954085296" />
+
 
 ---
 
