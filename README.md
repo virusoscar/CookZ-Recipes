@@ -114,7 +114,11 @@ Para estas recetas, generalmente se combina una **Caja Vacía** con los ingredie
 <img width="491" height="257" alt="image" src="https://github.com/user-attachments/assets/afcb24b5-5890-4fa1-b423-6fedba3bcaaf" />
 
 * **Stuffed Mushrooms:** Sartén (sin agua) + 4 Setas + Queso + Caja.
-* <img width="502" height="280" alt="image" src="https://github.com/user-attachments/assets/39f9bd3b-b8ac-42b6-a993-9a4037f82b21" />
+<img width="502" height="280" alt="image" src="https://github.com/user-attachments/assets/39f9bd3b-b8ac-42b6-a993-9a4037f82b21" />
+
+* **Stuffed Peppers:** Ollá (sin agua) + 3 Pimiento + Carne (cualquiera/cerdo) + Caja.
+<img width="330" height="184" alt="image" src="https://github.com/user-attachments/assets/36665c0f-0725-48da-844f-95ac81ae34e8" />
+
 
 
 
