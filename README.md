@@ -117,7 +117,7 @@ Para estas recetas, generalmente se combina una **Caja Vacía** con los ingredie
 <img width="502" height="280" alt="image" src="https://github.com/user-attachments/assets/39f9bd3b-b8ac-42b6-a993-9a4037f82b21" />
 
 * **Stuffed Peppers:** Ollá (sin agua) + 3 Pimiento + Carne (cualquiera/cerdo) + Caja.
-<img width="330" height="184" alt="image" src="https://github.com/user-attachments/assets/36665c0f-0725-48da-844f-95ac81ae34e8" />
+<img width="491" height="256" alt="image" src="https://github.com/user-attachments/assets/f98c7024-5e19-4791-a416-cb9a3bbf74ef" />
 
 
 
