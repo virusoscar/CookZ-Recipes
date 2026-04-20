@@ -120,7 +120,8 @@ Para estas recetas, generalmente se combina una **Caja Vacía** con los ingredie
 <img width="491" height="256" alt="image" src="https://github.com/user-attachments/assets/f98c7024-5e19-4791-a416-cb9a3bbf74ef" />
 
 
-
+🥫 Recetas de Conservas (Can Recipes)
+En este caso, para obtener la lata del alimento, debes combinar los ingredientes dentro de una Olla o Sartén (con o sin agua, según la receta) y aplicar fuego.
 
 
 
