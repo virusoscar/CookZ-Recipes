@@ -180,11 +180,14 @@ En este caso, para obtener la lata del alimento, debes combinar los ingredientes
 * **Wobbly Delight Peaches:** Olla (con agua) + 1 Lata de Melocotones + 10 Huesos + Lata.
 <img width="451" height="248" alt="image" src="https://github.com/user-attachments/assets/bd74d8c2-4a19-4f5e-be5a-8369f0db7743" />
 
+---
+
 
 🌭🌭 Recetas de Salchichas
 Sirve para procesar la carne animal y convertirla en salchichas, lo que suele mejorar la eficiencia de la comida y facilitar su almacenamiento.
 
-Bear Sausage: Olla (sin agua) + 1 Tripa + 1 Carne de Oso = 2x Salchichas.
+* **Bear Sausage:** Olla (sin agua) + 1 Tripa + 1 Carne de Oso = 2x Salchichas.
+<img width="492" height="262" alt="image" src="https://github.com/user-attachments/assets/9bbbae12-ce69-452e-962f-81c04d618bd2" />
 
 
 
