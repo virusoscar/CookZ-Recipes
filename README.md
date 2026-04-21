@@ -135,23 +135,57 @@ En este caso, para obtener la lata del alimento, debes combinar los ingredientes
 * **Canned Bacon:** Olla o Sartén (sin agua) + Grasa + 2 trozos de Carne (cerdo) + Latas.
 <img width="432" height="243" alt="image" src="https://github.com/user-attachments/assets/9766bd6c-e3f4-4aaf-8b15-fe80cd74f353" />
 
-* **Chili Con Carne:** Olla (sin agua) 1 Lata de Frijoles + 2 Trozos de Carne (Cualquiera) + 1 Pimiento Verde + 2 Tomates + Latas.
+* **Chili Con Carne:** Olla (sin agua) 1 Lata de Frijoles + 2 Trozos de Carne (Cualquiera) + 1 Pimiento Verde + 2 Tomates + Lata.
 <img width="414" height="239" alt="image" src="https://github.com/user-attachments/assets/2d481545-88b8-4e8b-af1e-42d0ee279acc" />
 
-* **Canned Bacon:** Olla (con agua) + 6 Tomates + 1 Paquete de Leche en Polvo + Latas.
+* **Canned Bacon:** Olla (con agua) + 6 Tomates + 1 Paquete de Leche en Polvo + Lata.
 <img width="433" height="250" alt="image" src="https://github.com/user-attachments/assets/3681b921-1fdd-44f9-9e21-ce1954085296" />
 
-* **Fish Soup:** Olla (con agua) + 2 Filetes de Pescado (Cualquiera) + 1 Ajo + 1 Tomate + Latas.
+* **Fish Soup:** Olla (con agua) + 2 Filetes de Pescado (Cualquiera) + 1 Ajo + 1 Tomate + Lata.
 <img width="434" height="258" alt="image" src="https://github.com/user-attachments/assets/33883a21-8506-4273-a602-d0b127a02a52" />
 
-* **Urha:** Olla (con agua) + 2 Filetes de Pescado (Cualquiera) + 1 Ajo + 1 Tomate + 1 Botella de Alcohol (Vino/Vodka) + Latas.
+* **Urha:** Olla (con agua) + 2 Filetes de Pescado (Cualquiera) + 1 Ajo + 1 Tomate + 1 Botella de Alcohol (Vino/Vodka) + Lata.
 <img width="427" height="255" alt="image" src="https://github.com/user-attachments/assets/bde4c33f-9487-4fdb-90fd-11112d83e7c9" />
 
-* **Fish Soup:** Olla (con agua) + 1 Carne (Cualquiera) + 2 Ajos + 1 Pimiento Verde + Latas.
+* **Fish Soup:** Olla (con agua) + 1 Carne (Cualquiera) + 2 Ajos + 1 Pimiento Verde + Lata.
 <img width="434" height="232" alt="image" src="https://github.com/user-attachments/assets/f44674ad-2a31-4847-ae66-0162e46c1bea" />
 
-* **Lecso:** Olla (con agua) + 1 Manteca (Fat) + 2 Pimientos Verdes + 2 Tomates + Latas.
+* **Lecso:** Olla (con agua) + 1 Manteca (Fat) + 2 Pimientos Verdes + 2 Tomates + Lata.
 <img width="420" height="244" alt="image" src="https://github.com/user-attachments/assets/27f56653-7aec-432d-a8bc-b586b02ebf6e" />
+
+* **Marmalade Apple:** Olla (sin agua) + 6 Manzanas + Lata.
+<img width="431" height="253" alt="image" src="https://github.com/user-attachments/assets/e6f91ecc-9cbd-4bd0-842f-ca4517e2ef83" />
+
+* **Marmalade Pear:** Olla (sin agua) + 4 Peras + Lata.
+<img width="433" height="241" alt="image" src="https://github.com/user-attachments/assets/e5c082c0-9b75-4c6a-add3-4a25f2f4b23d" />
+
+* **Marmalade Plum:** Olla (sin agua) + 6 Ciruelas + Lata.
+<img width="426" height="245" alt="image" src="https://github.com/user-attachments/assets/982d75a8-82f1-4e7a-b230-288f88a9b364" />
+
+* **Mushroom Stroganoff:** Olla (con agua) + 1 Lecha en Polvo + 5 Setas/Hongos(cualquiera) + Lata.
+<img width="438" height="256" alt="image" src="https://github.com/user-attachments/assets/ea85c8b5-7570-4474-8d71-aa965d360014" />
+
+* **Mystery Meat:** Olla y Sartén + 1 Grasa + 3 Carne (cerdo) + Lata.
+<img width="419" height="258" alt="image" src="https://github.com/user-attachments/assets/277207e3-c703-4ee0-a3b1-e3b3b928b333" />
+
+* **Pumpkin Soup:** Olla (con agua) + 2 Rodajas de Calabaza + Lata.
+<img width="451" height="278" alt="image" src="https://github.com/user-attachments/assets/744a27f2-e805-45da-a360-8719d6897f00" />
+
+* **Spaghetti With Meatballs:** Olla (sinagua) + 1 Lata de Tomate + 2 Carne (cualquiera/cerdo) + Lata.
+<img width="442" height="262" alt="image" src="https://github.com/user-attachments/assets/e89ed861-af08-4952-afa2-3aa91aea5b44" />
+
+* **Zucchini Caviar:** Olla (con agua) + 3 Calabi + 1 Pimiento verde + 1 Tomate + Lata.
+<img width="431" height="255" alt="image" src="https://github.com/user-attachments/assets/3a231fe8-f46b-4719-94bf-4683f66b194b" />
+
+* **Wobbly Delight Peaches:** Olla (con agua) + 1 Lata de Melocotones + 10 Huesos + Lata.
+<img width="451" height="248" alt="image" src="https://github.com/user-attachments/assets/bd74d8c2-4a19-4f5e-be5a-8369f0db7743" />
+
+
+
+
+Bear Sausage: Olla (sin agua) + 1 Tripa + 1 Carne de Oso = 2x Salchichas.
+
+
 
 ---
 
