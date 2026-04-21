@@ -186,10 +186,18 @@ En este caso, para obtener la lata del alimento, debes combinar los ingredientes
 🌭🌭 Recetas de Salchichas
 Sirve para procesar la carne animal y convertirla en salchichas, lo que suele mejorar la eficiencia de la comida y facilitar su almacenamiento.
 
-* **Bear Sausage:** Olla (sin agua) + 1 Tripa + 1 Carne de Oso = 2x Salchichas.
-<img width="492" height="262" alt="image" src="https://github.com/user-attachments/assets/9bbbae12-ce69-452e-962f-81c04d618bd2" />
-
-
+* **Bear Sausage:** Olla (sin agua) + 1 Tripa (guts) + 1 Carne de Oso = 2x Salchichas.
+* **Beef Sausage:** Olla (sin agua) + 1 Tripa + 1 Carne de Vaca = 2x Salchichas.
+* **Boar Sausage:** Olla (sin agua) + 1 Tripa + 2 Carnes de Jabalí = 2x Salchichas.
+* **Chicken Sausage:** Olla (sin agua) + 1 Tripa + 3 Carnes de Pollo = 2x Salchichas.
+* **Deer Sausage:** Olla (sin agua) + 1 Tripa + 2 Carnes de Ciervo = 2x Salchichas.
+* **Fox Sausage:** Olla (sin agua) + 1 Tripa + 3 Carnes de Zorro = 2x Salchichas.
+* **Goat Sausage:** Olla (sin agua) + 1 Tripa + 2 Carnes de Cabra = 2x Salchichas.
+* **Hare Sausage:** Olla (sin agua) + 1 Tripa + 2 Carnes de Liebre = 2x Salchichas.
+* **Pig Sausage:** Olla (sin agua) + 1 Tripa + 2 Carnes de Cerdo = 2x Salchichas.
+* **Reindeer Sausage:** Olla (sin agua) + 1 Tripa + 2 Carnes de Reno = 2x Salchichas.
+* **Sheep Sausage:** Olla (sin agua) + 1 Tripa + 2 Carnes de Oveja = 2x Salchichas.
+* **Wolf Sausage:** Olla (sin agua) + 1 Tripa + 2 Carnes de Lobo = 2x Salchichas.
 
 ---
 
