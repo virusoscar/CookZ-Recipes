@@ -1,4 +1,4 @@
-# 🍳 Guía de Recetas - Mod CookZ (DayZ)
+<img width="491" height="260" alt="image" src="https://github.com/user-attachments/assets/6644f225-1ea7-42af-84a0-2d5931ec32a8" /># 🍳 Guía de Recetas - Mod CookZ (DayZ)
 
 Esta es una guía rápida de crafteo y cocina para el mod **CookZ**, diseñada para tener a mano todos los ingredientes y pasos necesarios.
 
@@ -187,17 +187,41 @@ En este caso, para obtener la lata del alimento, debes combinar los ingredientes
 Sirve para procesar la carne animal y convertirla en salchichas, lo que suele mejorar la eficiencia de la comida y facilitar su almacenamiento.
 
 * **Bear Sausage:** Olla (sin agua) + 1 Tripa (guts) + 1 Carne de Oso = 2x Salchichas.
+<img width="495" height="251" alt="image" src="https://github.com/user-attachments/assets/3e321db7-b520-4aaf-8c16-3818ccbe4833" />
+
 * **Beef Sausage:** Olla (sin agua) + 1 Tripa + 1 Carne de Vaca = 2x Salchichas.
+<img width="484" height="235" alt="image" src="https://github.com/user-attachments/assets/e80d4e4e-1a18-40ca-a09c-41066e8267ba" />
+
 * **Boar Sausage:** Olla (sin agua) + 1 Tripa + 2 Carnes de Jabalí = 2x Salchichas.
+<img width="493" height="245" alt="image" src="https://github.com/user-attachments/assets/6331f537-68bd-4ad2-9076-a0f550d2e324" />
+
 * **Chicken Sausage:** Olla (sin agua) + 1 Tripa + 3 Carnes de Pollo = 2x Salchichas.
+<img width="481" height="247" alt="image" src="https://github.com/user-attachments/assets/462efef8-8b98-4266-92b0-c1c67e719f08" />
+
 * **Deer Sausage:** Olla (sin agua) + 1 Tripa + 2 Carnes de Ciervo = 2x Salchichas.
+<img width="509" height="252" alt="image" src="https://github.com/user-attachments/assets/97505872-49d5-453a-a80a-81335317e90a" />
+
 * **Fox Sausage:** Olla (sin agua) + 1 Tripa + 3 Carnes de Zorro = 2x Salchichas.
+<img width="497" height="256" alt="image" src="https://github.com/user-attachments/assets/ed032ddf-30dc-4515-9d94-aaf4dac8c121" />
+
 * **Goat Sausage:** Olla (sin agua) + 1 Tripa + 2 Carnes de Cabra = 2x Salchichas.
+<img width="498" height="262" alt="image" src="https://github.com/user-attachments/assets/4b3c74e9-5b2d-4c3d-9f5a-e9f546bdff0b" />
+
 * **Hare Sausage:** Olla (sin agua) + 1 Tripa + 2 Carnes de Liebre = 2x Salchichas.
+<img width="489" height="252" alt="image" src="https://github.com/user-attachments/assets/bd87e09a-6c69-4651-ae00-e3c191c4d41e" />
+
 * **Pig Sausage:** Olla (sin agua) + 1 Tripa + 2 Carnes de Cerdo = 2x Salchichas.
+<img width="491" height="260" alt="image" src="https://github.com/user-attachments/assets/df533f46-cc7d-4758-bbf7-0a607b5a6b69" />
+
 * **Reindeer Sausage:** Olla (sin agua) + 1 Tripa + 2 Carnes de Reno = 2x Salchichas.
+<img width="492" height="255" alt="image" src="https://github.com/user-attachments/assets/7fe827bd-f46c-4e46-a0cb-838b0a5bb197" />
+
 * **Sheep Sausage:** Olla (sin agua) + 1 Tripa + 2 Carnes de Oveja = 2x Salchichas.
+<img width="481" height="245" alt="image" src="https://github.com/user-attachments/assets/b2a008af-6a65-4083-86ad-707178829bc1" />
+
 * **Wolf Sausage:** Olla (sin agua) + 1 Tripa + 2 Carnes de Lobo = 2x Salchichas.
+<img width="488" height="251" alt="image" src="https://github.com/user-attachments/assets/77d6e075-c650-4471-b198-6db606588915" />
+
 
 ---
 
